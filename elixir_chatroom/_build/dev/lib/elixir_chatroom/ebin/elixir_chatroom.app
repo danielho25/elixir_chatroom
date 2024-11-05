@@ -1,0 +1,10 @@
+{application,elixir_chatroom,
+             [{config_mtime,1728343818},
+              {optional_applications,[]},
+              {applications,[kernel,stdlib,elixir,logger]},
+              {description,"elixir_chatroom"},
+              {modules,['Elixir.ElixirChatroom',
+                        'Elixir.ElixirChatroom.Chatroom',
+                        'Elixir.ElixirChatroom.Client']},
+              {registered,[]},
+              {vsn,"0.1.0"}]}.
